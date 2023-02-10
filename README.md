@@ -13,7 +13,7 @@ https://assets.coreservice.io/public/sdk/gaganode/1.0.4/gaganode-linux-amd64.tar
 * How to use:
 
 1. Download and unzip package.
-2. Edit config file "./root_conf/default.toml" and set your token.
+2. Edit config file "./gaganode-linux-amd64/root_conf/default.toml" and set your token.
 3. Run gaganode program and generate reward.
 ```
 cd gaganode-linux-amd64
